@@ -437,8 +437,13 @@ h4.service__title {
 
 .service__description,
 .announcement__description,
+.announcement__description-a,
 .announcement__description-list {
   font-size: var(--l-font-size);
+}
+
+.announcement__description-a {
+  color: var(--first-color-alt);
 }
 
 #motion-capture {
@@ -806,6 +811,7 @@ footer {
 
   .service__description,
   .announcement__description,
+  .announcement__description-a,
   .announcement__description-list {
     font-size: var(--s-font-size);
   }
