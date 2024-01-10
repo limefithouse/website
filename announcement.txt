@@ -1,0 +1,24 @@
+<!-- <section id="announcement" class="announcement container">
+        <header class="announcement__header">
+          <h2 class="section__title"><span class="secondary">ANNUNCI</span></h2>
+        </header>
+        <div class="announcement__content">
+          <article class="announcement__card">
+            <h3 class="section__subtitle">Aggiornamento orari Natale 2023</h3>
+            <p class="announcement__description">Buongiorno a tutti, per questo Natale la palestra Lime-Fitness sarà chiusa nelle seguenti date:</p>
+            <ul class="announcement__description-list">
+              <li>23 Dicembre 2023</li>
+              <li>24 Dicembre 2023</li>
+              <li>25 Dicembre 2023</li>
+              <li>26 Dicembre 2023</li>
+              <li>30 Dicembre 2023</li>
+              <li>1 Gennaio 2024</li>
+              <li>5 Gennaio 2024 dopo le 19:30</li>
+              <li>6 Gennaio 2024</li>
+            </ul>
+            <p class="announcement__description">
+              Grazie per l'attenzione.
+              Buona giornata.
+            </p>
+          </article>
+      </section> -->
